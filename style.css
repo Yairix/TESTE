@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+div{
+    display: block;
+    background-color: #80008054;
+    width: auto;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.hi {
+    font-weight: 800;
+    font-size: 80px;
+}
+.name {
+    font-weight: 300;
+    font-size: 30px;
+}
+.bear {
+    width: 150px;
+    height: 150px;
+}
