@@ -23,3 +23,16 @@ div{
     width: 150px;
     height: 150px;
 }
+
+@media (max-width:374px){
+    .hi {
+        font-size: 50px;
+    }
+    .name {
+        font-size: 18px;
+    }
+    .bear {
+        width: 80px;
+        height: 80px;
+    }
+}
